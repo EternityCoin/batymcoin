@@ -1,0 +1,17 @@
+{
+  "name": "Миша на движении",
+  "description": "Мишаня на движении Ради финансового ускорения. Mishan is on the move For the sake of financial acceleration",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "6"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/60/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
