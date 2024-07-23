@@ -1,0 +1,17 @@
+{
+  "name": "Весна",
+  "description": "Spring",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "4"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/34/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
