@@ -1,0 +1,17 @@
+{
+  "name": "Смотритель маяка",
+  "description": "Lighthouse keeper",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "5"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/49/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
