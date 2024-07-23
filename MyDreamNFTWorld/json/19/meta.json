@@ -1,0 +1,17 @@
+{
+  "name": "Бро за бро !",
+  "description": "I'm not your buddy, buddy.",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "2"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/19/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
