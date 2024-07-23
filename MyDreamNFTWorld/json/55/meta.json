@@ -1,0 +1,17 @@
+{
+  "name": "Идем за мной",
+  "description": "Come with me",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "6"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/55/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
