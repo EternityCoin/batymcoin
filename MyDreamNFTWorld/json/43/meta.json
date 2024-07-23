@@ -1,0 +1,17 @@
+{
+  "name": "Дача у моря и море удачи",
+  "description": "Cottage by the sea and a sea of luck",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "5"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/43/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
