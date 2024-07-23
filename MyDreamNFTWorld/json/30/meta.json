@@ -1,0 +1,17 @@
+{
+  "name": "Собакеновый рейв",
+  "description": "Dog rave",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "Auction"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/30/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
