@@ -1,0 +1,17 @@
+{
+  "name": "Биткоин - брат ! За нами будущее!",
+  "description": "Bitcoin is a brother! The future belongs to us!",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "2"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/18/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
