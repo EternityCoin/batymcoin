@@ -1,0 +1,17 @@
+{
+  "name": "Фото на паспорт",
+  "description": "Passport photo",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "6"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/57/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
