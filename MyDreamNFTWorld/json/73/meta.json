@@ -1,0 +1,17 @@
+{
+  "name": "Этот город самый лучший город на земле",
+  "description": "This city is the best city on earth",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "8"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/73/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
