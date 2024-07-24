@@ -1,0 +1,17 @@
+{
+  "name": "Мопс- чемпион",
+  "description": "The pug is the champion",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "8"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/75/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
