@@ -1,0 +1,17 @@
+{
+  "name": "Бабочки в моей голове",
+  "description": "Butterflies in my head",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "11"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/104/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
