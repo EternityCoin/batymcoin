@@ -1,0 +1,17 @@
+{
+  "name": "Зачем топтать мою любовь ?",
+  "description": "Why trample on my love?",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "10"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/96/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
