@@ -1,0 +1,17 @@
+{
+  "name": "Розовая мечта",
+  "description": "EThe pink dream",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "12"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/114/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
