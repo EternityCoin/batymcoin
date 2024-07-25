@@ -1,0 +1,17 @@
+{
+  "name": "У стен есть не только уши",
+  "description": "Walls don't just have ears",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "9"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/92/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
