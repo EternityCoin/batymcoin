@@ -1,0 +1,17 @@
+{
+  "name": "Конь в пальто",
+  "description": "The horse in the coat",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "13"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/124/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
