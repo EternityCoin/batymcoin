@@ -1,0 +1,17 @@
+{
+  "name": "По копеечке, по зернышку , по семечку",
+  "description": "By the penny, by the grain, by the seed",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "13"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/125/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
