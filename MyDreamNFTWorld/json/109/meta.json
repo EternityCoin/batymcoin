@@ -1,0 +1,17 @@
+{
+  "name": "Я буду ездить ночью под твоим окном …",
+  "description": "I will drive at night under your window …",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "11"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/109/image.png"
+   "buttons": [
+      {
+        "label": "Batymchanin Brand",
+        "uri": "https://vk.link/batymchanin"
+      }
+    ]
+}
