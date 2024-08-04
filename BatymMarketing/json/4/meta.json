@@ -1,0 +1,17 @@
+{
+  "name": "Author's post",
+  "description": "Данная НФТ дает право на 1 авторский посто о вашем проекте в телеграмм канале @Batymchanin . This NFT entitles you to 1 author's post about your project in the telegram channel @Batymchanin.",
+  "attributes": [
+    {
+      "trait_type": "Action",
+      "value": "Post"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/4/image.png"
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/romambaharymambyry"
+      }
+    ]
+}
