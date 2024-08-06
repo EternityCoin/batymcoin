@@ -1,6 +1,7 @@
 {
   "name": "Repost",
-  "description": "Данная НФТ дает право на 1 репост любого поста в Телеграмм канал @Batymchanin . This NFT gives the right to 1 repost of any post in the Telegram channel @Batymchanin.",
+  "description": "Данная НФТ дает право на 1 репост любого поста в Телеграмм канал @Batymchanin .  \n\nThis NFT gives the right to 1 repost of any post in the Telegram channel @Batymchanin.",
+  "marketplace": "getgems.io",
   "attributes": [
     {
       "trait_type": "Action",
