@@ -1,10 +1,11 @@
 {
   "name": "3 author's posts",
-  "description": "Подписка на три рекламных авторских поста о вашем проекте в Телеграмм канале @Batymchanin . Subscribe to three promotional author's posts about your project on the Telegram channel @Batymchanin",
+  "description": "Подписка на три рекламных авторских поста о вашем проекте в Телеграмм канале @Batymchanin .\n\nSubscribe to three promotional author's posts about your project on the Telegram channel @Batymchanin",
+  "marketplace": "getgems.io",
   "attributes": [
     {
       "trait_type": "Action",
-      "value": "Post"
+      "value": "Post "
     }
   ],
   "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/2/image.png"
