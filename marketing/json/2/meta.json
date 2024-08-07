@@ -8,11 +8,11 @@
       "value": "Post "
     }
   ],
-  "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/2/image.png"
-   "buttons": [
+  "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/2/image.png",
+  "buttons": [
       {
         "label": "Buy at Discount for $BATYM",
-        "url": "https://t.me/romambaharymambyry"
+        "uri": "https://t.me/romambaharymambyry"
       }
     ]
 }
