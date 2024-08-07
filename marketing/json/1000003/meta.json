@@ -1,18 +1,18 @@
 {
   "name": "Repost",
-  "description": "Данная НФТ дает право на 1 репост любого поста в Телеграмм канал @Batymchanin .  \n\nThis NFT gives the right to 1 repost of any post in the Telegram channel @Batymchanin.",
+  "description": "Данная НФТ дает право на 1 репост любого поста в Телеграмм канал @Batymchanin .\n\nThis NFT gives the right to 1 repost of any post in the Telegram channel @Batymchanin.",
   "marketplace": "getgems.io",
   "attributes": [
     {
-      "trait_type": "Action",
-      "value": "Repost"
+      "trait_type": "Action ",
+      "value": "Repost "
     }
   ],
-  "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/1000003/image.png"
-   "buttons": [
+  "image": "https://s.getgems.io/nft/c/66a88634fda39b938d900379/0/image.png",
+  "buttons": [
       {
         "label": "Buy at Discount for $BATYM",
-        "url": "https://t.me/romambaharymambyry"
+        "uri": "https://t.me/romambaharymambyry"
       }
     ]
 }
