@@ -1,0 +1,41 @@
+{
+    "description": "\u041f\u0440\u0438\u0432\u0435\u0442. \u042f \u0442\u0432\u043e\u0439 Batymchik ? \u0414\u0430\u0432\u0430\u0439 \u0434\u0440\u0443\u0436\u0438\u0442\u044c \u2026\n\nHi. Am I your Batymchik? Let's be friends \u2026",
+    "name": "Batymchik #194",
+    "image": "https://raw.githubusercontent.com/EternityCoin/Batymcoin/main/Batymchik/images/193.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Wires"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Black Sneakers"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Dark Blue Pants"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Turquoise T-Shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Purple Sad"
+        },
+        {
+            "trait_type": "Print",
+            "value": "Red Flower"
+        }
+    ],
+    "buttons": [
+        {
+            "label": "Buy at Discount for $BATYM",
+            "uri": "https://t.me/romambaharymambyry"
+        }
+    ]
+}
