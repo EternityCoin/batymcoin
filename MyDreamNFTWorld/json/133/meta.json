@@ -1,0 +1,17 @@
+{
+  "name": "Чертоги разума",
+  "description": "The halls of the mind",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/133/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQAamS0-UHBWJh0nJ_X3WyTQGjCJQRDZYDWeU1nGsdxc-4Yj"
+      }
+    ]
+}
