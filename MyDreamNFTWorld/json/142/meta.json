@@ -1,0 +1,17 @@
+{
+  "name": "Mr. Green",
+  "description": "Mr. Green",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/142/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQAQhWuGJVCCLmN7kxdsaFNevR6fpHTrQtxIZGhl9VB97Krn"
+      }
+    ]
+}
