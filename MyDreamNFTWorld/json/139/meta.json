@@ -1,0 +1,17 @@
+{
+  "name": "А мне летать охота …",
+  "description": "I want to fly…",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/139/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQD3NcnKrdxh5gR7KmFyoJnQARKXzqSCL48wdr1YPzavq5r6"
+      }
+    ]
+}
