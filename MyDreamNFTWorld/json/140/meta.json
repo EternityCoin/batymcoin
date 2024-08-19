@@ -1,0 +1,17 @@
+{
+  "name": "Мечтатель …",
+  "description": "Dreamer…",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/140/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQDxtL5T2T2-nGFMzoBGrOgIKqwMEqe8ZHre-XTrY0-u13Z5"
+      }
+    ]
+}
