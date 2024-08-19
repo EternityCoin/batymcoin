@@ -1,0 +1,17 @@
+{
+  "name": "Ты просишь уважения, но делаешь это без уважения …",
+  "description": "You ask for respect, but you do it without respect...",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/138/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQArNdpoufY4C1gqonPmNAjkhUB-n4AiE-T-InlMtHiL1ira"
+      }
+    ]
+}
