@@ -1,0 +1,17 @@
+{
+  "name": "Голодный кот",
+  "description": "Hungry cat",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "14"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/134/image.png",
+   "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQAs49rz-nOr595MVsul9fee52DU9U4k96kkg3gKTFnGjxLC"
+      }
+    ]
+}
