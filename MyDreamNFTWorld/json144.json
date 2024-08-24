@@ -1,1 +1,17 @@
-
+{
+  "name": "Что за лев этот тигр...",
+  "description": "What kind of lion is this tiger...",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "15"
+    }
+  ],
+  "image": "https://s.getgems.io/nft/c/662a9e60963b3d7ab07b25a4/99/image.png",
+   "buttons": [
+      {
+        "label": "Buy at a discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start="
+      }
+    ]
+}
