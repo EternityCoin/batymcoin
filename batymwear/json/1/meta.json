@@ -12,5 +12,11 @@
       "value": "T-shirt "
     }
   ],
-  "image": "https://s.getgems.io/nft/c/66c97d8ca2a73827fd6a2306/1/image.png"
+  "image": "https://s.getgems.io/nft/c/66c97d8ca2a73827fd6a2306/1/image.png",
+  "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start=EQCY9mC94Psu56hKDuYPecZ_8LbWPU1hKasjHLm5xJgqSNIK"
+      }
+    ]
 }
