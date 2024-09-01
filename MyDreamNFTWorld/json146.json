@@ -1,0 +1,17 @@
+{
+  "name": "Мода - это моя профессия",
+  "description": "Fashion is my profession",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "15"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/EternityCoin/Batymcoin/main/MyDreamNFTWorld/images/146.jpg",
+   "buttons": [
+      {
+        "label": "Buy at a discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start="
+      }
+    ]
+}
