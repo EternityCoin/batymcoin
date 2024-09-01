@@ -1,0 +1,17 @@
+{
+  "name": "Нервы на пределе...",
+  "description": "Nerves are on edge...",
+  "attributes": [
+    {
+      "trait_type": "Wave",
+      "value": "15"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/EternityCoin/Batymcoin/main/MyDreamNFTWorld/images/145.jpg",
+   "buttons": [
+      {
+        "label": "Buy at a discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start="
+      }
+    ]
+}
