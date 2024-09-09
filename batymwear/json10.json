@@ -1,0 +1,22 @@
+{
+  "name": "Oversize T-Shirt",
+  "description": "Суперудобная футболка оверсайз С ПРИНТОМ по желанию покупателя(Индивидуальный подбор). Она обволакивает тебя сверхкачественными 92% хлопком и 8% лайкрой производства 🇹🇷 \nВ наличии размеры XS , S, M, L, XL\nПосле покупки нфт для получения товара свяжись с нами по ссылкам в описании коллекции\n\nSuper comfortable oversize T-shirt With a PRINT at the request of the buyer (Individual selection). It envelops you with over-the-top 98% cotton and 8% lycra made 🇹🇷 \nAvailable in sizes XS, S, M, L, XL\nAfter purchasing the NFT, to receive the product, contact us using the links in the description of the collection",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Print",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt "
+    }
+  ],
+  "image": "image.png",
+  "buttons": [
+      {
+        "label": "Buy at Discount for $BATYM",
+        "uri": "https://t.me/Batymwalletbot?start="
+      }
+    ]
+}
